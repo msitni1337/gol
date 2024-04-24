@@ -1,4 +1,4 @@
-SRC = general.c main.c
+SRC = general.c input.c main.c utils.c
 
 OBJ = $(SRC:.c=.o)
 
