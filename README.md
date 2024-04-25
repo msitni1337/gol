@@ -1,7 +1,7 @@
 ## Game Of Life
 
 ![# Game Of Life](./game-of-life-loop-cropped.gif)
-# installation
+# Installation
 ## macOS
 You'll need **XQuartz** to run the program. Install it from the official website: https://www.xquartz.org/ or using Homebrew:
 You can use brew :
