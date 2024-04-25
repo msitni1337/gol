@@ -2,6 +2,16 @@
 
 ![# Game Of Life](./game-of-life-loop-cropped.gif)
 
+# For MacOS
+    1- First, you must download and install **XQuartz**, from the official website: https://www.xquartz.org/
+    You can use brew :
+        > brew install --cask xquartz
+    2- run make
+        > make
+# For Linux
+    For Linux you can run 'make' directly, but ensure you have X11 installed.
+    > make
+
 # get started:
 
 Run the following commands in linux env:
